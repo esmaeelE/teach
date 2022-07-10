@@ -1,4 +1,4 @@
 # ReadME
 
-some notes on teaching
+some notes on teaching computer
 
