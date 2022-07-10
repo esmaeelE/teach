@@ -15,4 +15,4 @@ https://ehmatthes.github.io/
 
 * an online class to show how to install python on windows and run some programs
 * introduce virtualization
-* 
+* introduce Free Software 
